@@ -1,0 +1,14 @@
+name = "pesde/hello_root"
+version = "1.0.0"
+license = "MIT"
+workspace_members = ["build/*"]
+private = true
+
+[target]
+environment = "lune"
+
+[scripts]
+build = "scripts/build.luau"
+
+[indices]
+default = "https://github.com/daimond113/pesde-index"

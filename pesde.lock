@@ -1,0 +1,8 @@
+name = "pesde/hello_root"
+version = "1.0.0"
+target = "lune"
+
+[workspace."pesde/hello"]
+roblox = "build/roblox"
+lune = "build/lune"
+luau = "build/luau"

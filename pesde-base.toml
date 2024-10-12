@@ -1,0 +1,10 @@
+name = "pesde/hello"
+version = "1.0.0"
+description = "Prints hello. Intended for use in examples."
+authors = ["LukaDev <luka@lukadev.me> (lukadev.me)"]
+repository = "https://github.com/lukadev-0/pesde-hello"
+license = "MIT"
+includes = []
+
+[indices]
+default = "https://github.com/daimond113/pesde-index"
