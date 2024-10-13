@@ -1,7 +1,7 @@
 name = "pesde/hello"
-version = "1.0.0"
+version = "1.0.1"
 description = "Prints hello. Intended for use in examples."
-authors = ["LukaDev <luka@lukadev.me> (lukadev.me)"]
+authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me)"]
 repository = "https://github.com/lukadev-0/pesde-hello"
 license = "MIT"
 includes = []
