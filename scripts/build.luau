@@ -48,10 +48,12 @@ for targetName, target in TARGETS do
 		"pesde.toml",
 		"README.md",
 		"LICENSE",
+		"docs",
 	}
 
 	fs.copy("LICENSE", `{outDir}/LICENSE`)
 	fs.copy("README.md", `{outDir}/README.md`)
+	fs.copy("docs", `{outDir}/docs`)
 
 	if target.lib then
 		local message = `Hello, pesde! ({manifest.name}@{manifest.version}, {targetName})`

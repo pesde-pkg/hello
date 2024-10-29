@@ -1,5 +1,5 @@
 name = "pesde/hello"
-version = "1.0.1"
+version = "1.0.2"
 description = "Prints hello. Intended for use in examples."
 authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me)"]
 repository = "https://github.com/lukadev-0/pesde-hello"
