@@ -2,7 +2,7 @@
 
 The `pesde/hello` package is intended to be used in examples.
 
-It exports a library and a binary, both of which prints a simple greeting.
+It exports a library and a binary, both of which print a simple greeting.
 
 ## Installation
 
